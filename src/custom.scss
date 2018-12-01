@@ -1,0 +1,8 @@
+@import "./_colors.scss";
+$primary: $primary-color;
+$secondary: $secondary-color;
+$body-bg: $background-color;
+$jumbotron-bg: $secondary-color;
+$card-bg: $secondary-color;
+
+@import "~bootstrap/scss/bootstrap.scss";

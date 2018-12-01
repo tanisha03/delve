@@ -1,0 +1,11 @@
+.line {
+  background-color: #f84348;
+  height: 1px;
+}
+.lead,
+.lead1 {
+  color: #ffffff;
+}
+.divide {
+  margin-top: 20px;
+}
